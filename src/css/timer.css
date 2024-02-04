@@ -1,0 +1,38 @@
+.test{
+    text-decoration: underline 1px black;
+   
+}
+
+.timer-decoration{
+    width: 600px;
+    height: 150px;
+    
+    
+}
+input{
+    width: 350px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+button{
+    width: 80px;
+    height: 45px;
+    margin-bottom: 20px;
+}
+
+.timer {
+    display: flex;
+    gap: 15px;
+}
+
+.field {
+}
+
+.value {
+    font-size: 25px;
+}
+
+.label {
+    font-size: 25px;
+}
